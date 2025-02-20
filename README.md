@@ -26,7 +26,7 @@ Me chamo Enzo Medeiros (BeneditoCODE),  sou natural do Piaui. Estou cursando Té
             src="https://custom-icon-badges.demolab.com/github/stars/luzardoSENAI?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/luzardoSENAI?tab=followers">
+    <a href="https://github.com/BeneditoCODE">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
